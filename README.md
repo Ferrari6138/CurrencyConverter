@@ -6,7 +6,8 @@ Um aplicativo desktop simples de conversão de moedas, construído com **JavaFX*
 
 ## 📸 Demonstração
 
-*(adicione aqui um print da interface, se quiser)*
+![image](https://github.com/user-attachments/assets/49754ea2-989c-4f20-94ab-b54f4ce30228)
+
 
 ---
 
